@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ace27\\source\\repos\\ACEANphonebook\\ACEANphonebook\\ACEANphonebook.csproj": {}
+    "C:\\Users\\ace27\\Documents\\ITE1\\Project\\ACEANphonebook\\ACEANphonebook\\ACEANphonebook.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ace27\\source\\repos\\ACEANphonebook\\ACEANphonebook\\ACEANphonebook.csproj": {
+    "C:\\Users\\ace27\\Documents\\ITE1\\Project\\ACEANphonebook\\ACEANphonebook\\ACEANphonebook.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ace27\\source\\repos\\ACEANphonebook\\ACEANphonebook\\ACEANphonebook.csproj",
+        "projectUniqueName": "C:\\Users\\ace27\\Documents\\ITE1\\Project\\ACEANphonebook\\ACEANphonebook\\ACEANphonebook.csproj",
         "projectName": "ACEANphonebook",
-        "projectPath": "C:\\Users\\ace27\\source\\repos\\ACEANphonebook\\ACEANphonebook\\ACEANphonebook.csproj",
+        "projectPath": "C:\\Users\\ace27\\Documents\\ITE1\\Project\\ACEANphonebook\\ACEANphonebook\\ACEANphonebook.csproj",
         "packagesPath": "C:\\Users\\ace27\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ace27\\source\\repos\\ACEANphonebook\\ACEANphonebook\\obj\\",
+        "outputPath": "C:\\Users\\ace27\\Documents\\ITE1\\Project\\ACEANphonebook\\ACEANphonebook\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ace27\\AppData\\Roaming\\NuGet\\NuGet.Config",
