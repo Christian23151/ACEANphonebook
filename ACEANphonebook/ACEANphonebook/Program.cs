@@ -179,7 +179,7 @@ class Program
         }
         else
         {
-            Console.WriteLine(" and " + string.Join(", ", selectedCountries.Select(c => c.Item1)) + ":");
+            Console.WriteLine("Here are the students from " + string.Join(", ", selectedCountries.Select(c => c.Item1)) + ":");
             var selectedStudents = studentList.Where(student => selectedCountries.Any(c => c.Item2 == student.CountryCode))
                                              .OrderBy(x => x.Surname, StringComparer.Ordinal);
             foreach (var student in selectedStudents)

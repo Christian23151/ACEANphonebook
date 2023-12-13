@@ -1,0 +1,14 @@
+C:\Users\ace27\Documents\ITE1\Project\ACEANphonebook\ACEANphonebook\bin\Debug\net6.0\ACEANphonebook.exe
+C:\Users\ace27\Documents\ITE1\Project\ACEANphonebook\ACEANphonebook\bin\Debug\net6.0\ACEANphonebook.deps.json
+C:\Users\ace27\Documents\ITE1\Project\ACEANphonebook\ACEANphonebook\bin\Debug\net6.0\ACEANphonebook.runtimeconfig.json
+C:\Users\ace27\Documents\ITE1\Project\ACEANphonebook\ACEANphonebook\bin\Debug\net6.0\ACEANphonebook.dll
+C:\Users\ace27\Documents\ITE1\Project\ACEANphonebook\ACEANphonebook\bin\Debug\net6.0\ACEANphonebook.pdb
+C:\Users\ace27\Documents\ITE1\Project\ACEANphonebook\ACEANphonebook\obj\Debug\net6.0\ACEANphonebook.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ace27\Documents\ITE1\Project\ACEANphonebook\ACEANphonebook\obj\Debug\net6.0\ACEANphonebook.AssemblyInfoInputs.cache
+C:\Users\ace27\Documents\ITE1\Project\ACEANphonebook\ACEANphonebook\obj\Debug\net6.0\ACEANphonebook.AssemblyInfo.cs
+C:\Users\ace27\Documents\ITE1\Project\ACEANphonebook\ACEANphonebook\obj\Debug\net6.0\ACEANphonebook.csproj.CoreCompileInputs.cache
+C:\Users\ace27\Documents\ITE1\Project\ACEANphonebook\ACEANphonebook\obj\Debug\net6.0\ACEANphonebook.dll
+C:\Users\ace27\Documents\ITE1\Project\ACEANphonebook\ACEANphonebook\obj\Debug\net6.0\refint\ACEANphonebook.dll
+C:\Users\ace27\Documents\ITE1\Project\ACEANphonebook\ACEANphonebook\obj\Debug\net6.0\ACEANphonebook.pdb
+C:\Users\ace27\Documents\ITE1\Project\ACEANphonebook\ACEANphonebook\obj\Debug\net6.0\ACEANphonebook.genruntimeconfig.cache
+C:\Users\ace27\Documents\ITE1\Project\ACEANphonebook\ACEANphonebook\obj\Debug\net6.0\ref\ACEANphonebook.dll
